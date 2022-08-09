@@ -1,4 +1,4 @@
-### mkdir.bat
+# mkdir.bat
 
 ## Create and name folders with the current date and time
  
